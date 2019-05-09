@@ -1,34 +1,35 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kingofpicnic.com" resolutions="1x" timestamp="1557392657085">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kingofchengyi.com" resolutions="1x" timestamp="1557398944917">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="490117284" ref="index"/>
-    <file name="drawing.css" crc="483255647" ref="drawing"/>
-    <file name="__.css" crc="3787071244" ref="重做"/>
-    <file name="photo.css" crc="3802282152" ref="photo"/>
-    <file name="fuck.css" crc="3901641749" ref="fuck"/>
-    <file name="instalation.css" crc="4193294922" ref="instalation"/>
-    <file name="contact.css" crc="417643012" ref="contact"/>
-    <file name="stage.css" crc="3776767615" ref="stage"/>
+    <file name="index.css" crc="35590002" ref="index"/>
+    <file name="drawing.css" crc="4062362714" ref="drawing"/>
+    <file name="__.css" crc="98382883" ref="重做"/>
+    <file name="photo.css" crc="360687486" ref="photo"/>
+    <file name="fuck.css" crc="169872956" ref="fuck"/>
+    <file name="instalation.css" crc="253608532" ref="instalation"/>
+    <file name="contact.css" crc="74331752" ref="contact"/>
+    <file name="stage.css" crc="88605640" ref="stage"/>
+    <file name="i.css" crc="527399850" ref="i"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="museutils.js" crc="3803043152" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="whatinput.js" crc="86476730" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="webpro.js" crc="242022427" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
-    <file name="require.js" crc="4157109226" ref="index:instalation:photo:重做:fuck:contact:drawing:stage"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="museutils.js" crc="3803043152" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="whatinput.js" crc="86476730" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="webpro.js" crc="242022427" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="require.js" crc="4157109226" ref="index:instalation:photo:重做:fuck:contact:drawing:stage:i"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="stage"/>
   </folder>
   <folder name="images">
     <file name="screenshot_20180724-213547.jpg" crc="4052150012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="122838.jpg" crc="3766016880" seo="true" ref="index:fuck">
+    <file name="blank.gif" crc="4208392903" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="122838.jpg" crc="3766016880" seo="true" ref="index:fuck:stage">
       <caption webpage="index" alt=""/>
       <caption webpage="fuck" alt=""/>
     </file>
@@ -39,30 +40,33 @@
     <file name="20180626_180626_0024.jpg" crc="190860265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:instalation:photo:fuck:drawing"/>
-    <file name="image (1).gif" crc="3981113749" seo="true" ref="index:instalation:photo:fuck:contact">
+    <file name="loading.gif" crc="3815509949" ref="index:instalation:photo:fuck:drawing:i"/>
+    <file name="image (1).gif" crc="3981113749" seo="true" ref="index:instalation:photo:fuck:contact:i">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="photo" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="i" alt=""/>
       <caption webpage="instalation" alt=""/>
       <caption webpage="fuck" alt=""/>
       <caption webpage="fuck" alt=""/>
-      <caption webpage="photo" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
     <file name="image (2).gif" crc="3900016474" seo="true" ref="index:fuck:drawing:stage">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fuck" alt=""/>
-      <caption webpage="fuck" alt=""/>
-      <caption webpage="stage" alt=""/>
       <caption webpage="drawing" alt=""/>
+      <caption webpage="stage" alt=""/>
+      <caption webpage="fuck" alt=""/>
+      <caption webpage="fuck" alt=""/>
     </file>
-    <file name="貼上的-svg-1061608x1148.svg" crc="176972305" seo="true" ref="instalation">
+    <file name="貼上的-svg-1061608x1148.svg" crc="176972305" seo="true" ref="instalation:i">
       <caption webpage="instalation" alt=""/>
+      <caption webpage="i" alt=""/>
     </file>
     <file name="貼上的 svg 1061608x1148_poster_.png" crc="373083245" ref="instalation"/>
-    <file name="圖片1.jpg" crc="338052155" seo="true" ref="instalation">
+    <file name="圖片1.jpg" crc="338052155" seo="true" ref="instalation:i">
       <caption webpage="instalation" alt=""/>
+      <caption webpage="i" alt=""/>
     </file>
     <file name="未命名-2-crop-u2516.jpg" crc="4002785295" seo="true" ref="instalation">
       <caption webpage="instalation" alt=""/>
@@ -77,12 +81,12 @@
       <caption webpage="photo" alt=""/>
     </file>
     <file name="screenshot_20180719-225902.jpg" crc="3767999558" seo="true" ref="photo:fuck">
-      <caption webpage="photo" alt=""/>
       <caption webpage="fuck" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="screenshot_20180724-213250.jpg" crc="4267609915" seo="true" ref="photo:fuck">
-      <caption webpage="photo" alt=""/>
       <caption webpage="fuck" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="screenshot_20180805-000941.jpg" crc="4022367827" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
@@ -115,7 +119,7 @@
     <file name="跳棋1.jpg" crc="4229979220" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
-    <file name="2獨角馬貼紙205x206.jpg" crc="209973922" seo="true" ref="drawing">
+    <file name="2獨角馬貼紙205x206.jpg" crc="4282790620" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
     <file name="小惡魔-crop-u3443.jpg" crc="237842515" seo="true" ref="drawing">
@@ -127,13 +131,17 @@
     <file name="跳棋1205x206.jpg" crc="51399169" seo="true" ref="drawing">
       <caption webpage="drawing" alt=""/>
     </file>
+    <file name="未命名-2-crop-u4026.jpg" crc="4002785295" seo="true" ref="i">
+      <caption webpage="i" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="161301435" seo="true" mt="1557345157443" redirect="true"/>
-  <file name="instalation.html" crc="4196428416" seo="true" mt="1557344974506" redirect="true"/>
-  <file name="photo.html" crc="4258006451" seo="true" mt="1557345006689" redirect="true"/>
-  <file name="重做.html" crc="4238442573" seo="true" mt="1557339705297" redirect="true"/>
-  <file name="fuck.html" crc="4009340300" seo="true" mt="1557342870762" redirect="true"/>
-  <file name="contact.html" crc="25229727" seo="true" mt="1557345035672" redirect="true"/>
-  <file name="drawing.html" crc="472485907" seo="true" mt="1557345675264" redirect="true"/>
-  <file name="stage.html" crc="430314383" seo="true" mt="1557385785050" redirect="true"/>
+  <file name="index.html" crc="162663581" seo="true" mt="1557398517690" redirect="true"/>
+  <file name="instalation.html" crc="422653224" seo="true" mt="1557398431737" redirect="true"/>
+  <file name="photo.html" crc="336771952" seo="true" mt="1557398677005" redirect="true"/>
+  <file name="重做.html" crc="4161486038" seo="true" mt="1557398431737" redirect="true"/>
+  <file name="fuck.html" crc="4162284430" seo="true" mt="1557398431737" redirect="true"/>
+  <file name="contact.html" crc="108582622" seo="true" mt="1557398734056" redirect="true"/>
+  <file name="drawing.html" crc="4265974536" seo="true" mt="1557398702394" redirect="true"/>
+  <file name="stage.html" crc="158835198" seo="true" mt="1557398653490" redirect="true"/>
+  <file name="i.html" crc="231986629" seo="true" mt="1557398637935" redirect="true"/>
 </manifest>
